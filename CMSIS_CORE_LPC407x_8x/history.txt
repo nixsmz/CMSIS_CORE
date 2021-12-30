@@ -1,0 +1,31 @@
+History of updates to CMSIS_CORE_LPC407x_8x
+===========================================
+
+18 July 2013
+------------
+Updated with ARM Cortex-M4 CMSIS files as supplied in ARM's
+CMSIS 3.20 March 2013 release.
+
+3 September 2012
+----------------
+Updated device specific files with versions from NXP's 
+LPC407x_8x_177x_8x Peripheral Driver Library as 
+of 29 August 2012. 
+
+Note that LPC407x_8x_177x_8x.h modified by Code Red to
+excluded unrequired ' extern "C" ' statement and add 
+missing include for system_LPC407x_8x_177x_8x.h
+
+
+
+21 June 2012
+------------
+LPC407x/LPC408x CMSIS library project using ARM 
+Cortex-M4 CMSIS files as supplied in ARM's CMSIS 3.01
+release (07 March 2012), together with device specific
+files from NXP's LPC407x_8x_177x_8x Peripheral Driver
+Library (as available from http://www.lpcware.com)
+
+
+Note files are built -Os for both Debug and Release
+

@@ -1,0 +1,10 @@
+History of updates to CMSIS_CORE_LPC112x
+========================================
+
+30 July 2013
+------------
+CMSIS library project using ARM Cortex-M3 CMSIS files as
+supplied in ARM's CMSIS 3.20 March 2013 release, together
+with device specific files.
+
+Note files are built -Os for both Debug and Release
