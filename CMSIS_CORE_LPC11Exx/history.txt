@@ -1,0 +1,22 @@
+History of updates to CMSIS_CORE_LPC11Exx
+=========================================
+
+18 July 2013
+------------
+Updated with ARM Cortex-M0 CMSIS files as supplied in ARM's
+CMSIS 3.20 March 2013 release.
+
+13 November 2012
+----------------
+CMSIS library project using ARM Cortex-M0 CMSIS files as
+supplied in ARM's CMSIS 3.01 March 2012 release, together
+with device specific files.
+
+Device specific files are taken from earlier 
+"CMSISv2p10_LPC11Exx" library project (of 16 February 2012), 
+but with new version of LPC11Exx.h header (received from NXP
+November 2012). Note that NXP have not changed the version
+number/date of this header.
+
+Note files are built -Os for both Debug and Release
+

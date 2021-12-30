@@ -1,0 +1,24 @@
+History of updates to CMSIS_CORE_LPC11Axx
+=========================================
+
+18 July 2013
+------------
+Updated with ARM Cortex-M0 CMSIS files as supplied in ARM's
+CMSIS 3.20 March 2013 release.
+
+9 May 2012
+----------
+Updated with ARM Cortex-M0 CMSIS files as supplied in ARM's 
+CMSIS 3.01 release (07 March 2012), together with device 
+specific files from NXP's "Keil Examples For IAR 11A14 SK.zip"
+from lpcware.com - 2012-02-05, V1.02.
+
+18 April 2012
+-------------
+Initial CMSIS library project using ARM Cortex-M0 CMSIS
+files as supplied in ARM's CMSIS 3.00 February 2012 release,
+together with device specific files from NXP's 
+LPC11A14_Keil_Examples.zip from lpcware.com - 2012-04-16, V1.0. 
+
+Note files are built -Os for both Debug and Release
+
